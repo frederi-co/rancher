@@ -1,0 +1,2 @@
+# for setup of rancher CLI for windows
+$env:RANCHER_CONFIG_DIR = Join-Path $home ".rancher"
